@@ -1,0 +1,1132 @@
+{
+  "data": [
+    {
+      "_": "_",
+      "__1": "Environmental",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Aloe Vera",
+      "__2": "--",
+      "__3": "Cockroaches"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Amitraz",
+      "__2": "--",
+      "__3": "Colonial bent grass (Agrostis tenuis)"
+    },
+    {
+      "_": "--",
+      "__1": "Ammonia",
+      "__2": "LEVEL 3",
+      "__3": "Cotton"
+    },
+    {
+      "_": "--",
+      "__1": "Ammonium Laureth Sulfate",
+      "__2": "LEVEL 1",
+      "__3": "Crab Grass"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Ants",
+      "__2": "LEVEL 2",
+      "__3": "Dandelion (Taraxum duplidens)"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Apple Cider Vinegar",
+      "__2": "LEVEL 2",
+      "__3": "Dock (Rumex acetosa)"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Apple Tree",
+      "__2": "--",
+      "__3": "Dogs"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Ash (Frqxinus excelsior)",
+      "__2": "--",
+      "__3": "Duck feathers"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Aspen (Populus tremula)",
+      "__2": "LEVEL 1",
+      "__3": "Elm (Ulmus glabra)"
+    },
+    {
+      "_": "--",
+      "__1": "Aspergillus Fumigatus",
+      "__2": "--",
+      "__3": "Fescue"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Baking Soda",
+      "__2": "--",
+      "__3": "Fipronil"
+    },
+    {
+      "_": "--",
+      "__1": "Bee",
+      "__2": "LEVEL 1",
+      "__3": "Fireweed/Great willow herb (Epilobium angustifolium)"
+    },
+    {
+      "_": "--",
+      "__1": "Beech (Fagus silvatica)",
+      "__2": "--",
+      "__3": "Fleas"
+    },
+    {
+      "_": "--",
+      "__1": "Bermuda grass (Cynodon dactylon)",
+      "__2": "LEVEL 3",
+      "__3": "Formaldehyde"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Butoxyethanol",
+      "__2": "LEVEL 1",
+      "__3": "Glycerin"
+    },
+    {
+      "_": "--",
+      "__1": "Buttercup (Ranculus spp.)",
+      "__2": "LEVEL 2",
+      "__3": "Goldenrod (Solidago virgaurea)"
+    },
+    {
+      "_": "--",
+      "__1": "Calcium Hypochlorite",
+      "__2": "LEVEL 2",
+      "__3": "Goose feathers"
+    },
+    {
+      "_": "--",
+      "__1": "Cats",
+      "__2": "LEVEL 1",
+      "__3": "Hawthorn (Crataegus spp.)"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Cherry tree",
+      "__2": "LEVEL 3",
+      "__3": "Horseflies"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Chlorine",
+      "__2": "LEVEL 1",
+      "__3": "Horses"
+    },
+    {
+      "_": "--",
+      "__1": "Clover (Triofolium spp.)",
+      "__2": "LEVEL 3",
+      "__3": "House Dust Mite"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Cocamidopropyl Betaine",
+      "__2": "LEVEL 3",
+      "__3": "Hydrogen Peroxide"
+    },
+    {
+      "_": "_",
+      "__1": "Environmental",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "--",
+      "__1": "Imidacloprid",
+      "__2": "LEVEL 2",
+      "__3": "Parabens"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Isopropyl Alcohol",
+      "__2": "--",
+      "__3": "Pear tree"
+    },
+    {
+      "_": "--",
+      "__1": "Jasmine (Philadelphus spp.)",
+      "__2": "LEVEL 3",
+      "__3": "Perchloroethylene"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Juniper Bush",
+      "__2": "LEVEL 1",
+      "__3": "Permethrin"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Kammgras (Cynosurus cristatus)",
+      "__2": "LEVEL 1",
+      "__3": "Phthalates"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Kentucky bluegrass (Poa pratensis)",
+      "__2": "--",
+      "__3": "Pigeon Dung"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Leather",
+      "__2": "LEVEL 2",
+      "__3": "Pigeons"
+    },
+    {
+      "_": "--",
+      "__1": "Magnolia Tree",
+      "__2": "LEVEL 2",
+      "__3": "Pine (Pinus spp.)"
+    },
+    {
+      "_": "--",
+      "__1": "Malt Vinegar",
+      "__2": "LEVEL 1",
+      "__3": "Polyethylene Glycol"
+    },
+    {
+      "_": "--",
+      "__1": "Maple (Acer sepp.)",
+      "__2": "--",
+      "__3": "Polysorbates"
+    },
+    {
+      "_": "--",
+      "__1": "Meadow fox tail (Alopecurus prat.)",
+      "__2": "--",
+      "__3": "Poplar (Populus spp.)"
+    },
+    {
+      "_": "--",
+      "__1": "Methoprene",
+      "__2": "LEVEL 3",
+      "__3": "Privet (Ligustrum spp.)"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Methylparaben",
+      "__2": "LEVEL 1",
+      "__3": "Propylene Glycol"
+    },
+    {
+      "_": "--",
+      "__1": "Mice",
+      "__2": "--",
+      "__3": "Quartemary Ammonium Compounds"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Mice Dung",
+      "__2": "--",
+      "__3": "Rabbits"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Mineral Oil",
+      "__2": "--",
+      "__3": "Ragweed (Ambrosia elatior)"
+    },
+    {
+      "_": "--",
+      "__1": "Mold I",
+      "__2": "--",
+      "__3": "Rat Dung"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Mosquito",
+      "__2": "LEVEL 3",
+      "__3": "Rats"
+    },
+    {
+      "_": "--",
+      "__1": "Nylon",
+      "__2": "LEVEL 1",
+      "__3": "Rose (Rosa spp.)"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Oak (Quercus robur)",
+      "__2": "--",
+      "__3": "Ryegrass"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Orchard grass or Cocksfoot grass (Dactylis glomerata)",
+      "__2": "LEVEL 3",
+      "__3": "Sodium Hydroxide"
+    },
+    {
+      "_": "--",
+      "__1": "Pansy",
+      "__2": "--",
+      "__3": "Sodium Hypochlorite"
+    },
+    {
+      "_": "_",
+      "__1": "Environmental",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Sodium Laureth Sulfate",
+      "__2": "--",
+      "__3": "Tulip (Tulipa spp.)"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Sodium Lauryl Sulfate",
+      "__2": "LEVEL 1",
+      "__3": "Wasp"
+    },
+    {
+      "_": "--",
+      "__1": "Spruce (Picea abies)",
+      "__2": "LEVEL 1",
+      "__3": "White Vinegar"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "St. Augustine Grass",
+      "__2": "LEVEL 2",
+      "__3": "Willow (Salix vitellina)"
+    },
+    {
+      "_": "--",
+      "__1": "Ticks",
+      "__2": "--",
+      "__3": "Wool"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Triclosan",
+      "__2": "--",
+      "__3": "Zoysia Grass"
+    },
+    {
+      "_": "_",
+      "__1": "Food",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "--",
+      "__1": "Dairy - Cheese (american)",
+      "__2": "LEVEL 3",
+      "__3": "Food Dye - Red #40"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Dairy - Cheese (cheddar)",
+      "__2": "LEVEL 1",
+      "__3": "Food Dye - Yellow #5"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Dairy - Cheese (cottage)",
+      "__2": "--",
+      "__3": "Food Dye - Yellow #6"
+    },
+    {
+      "_": "--",
+      "__1": "Dairy - Cheese (swiss)",
+      "__2": "--",
+      "__3": "Fruit - Apple"
+    },
+    {
+      "_": "--",
+      "__1": "Dairy - Milk (cow)",
+      "__2": "LEVEL 2",
+      "__3": "Fruit - Bananas"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Dairy - Milk (goat)",
+      "__2": "LEVEL 2",
+      "__3": "Fruit - Blueberries"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Fat - Almond Oil",
+      "__2": "--",
+      "__3": "Fruit - Cranberries"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Fat - Canola Meal",
+      "__2": "LEVEL 2",
+      "__3": "Fruit - Figs"
+    },
+    {
+      "_": "--",
+      "__1": "Fat - Canola Oil",
+      "__2": "LEVEL 1",
+      "__3": "Fruit - Raspberries"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Fat - Coconut Oil",
+      "__2": "--",
+      "__3": "Fruit - Strawberries"
+    },
+    {
+      "_": "--",
+      "__1": "Fat - Cod Liver Oil",
+      "__2": "LEVEL 3",
+      "__3": "Fruit - Tomato Pomace"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Fat - Hemp Seed Oil",
+      "__2": "--",
+      "__3": "Fruit - Watermelons"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Fat - Herring Oil",
+      "__2": "LEVEL 1",
+      "__3": "Grain - Barley"
+    },
+    {
+      "_": "--",
+      "__1": "Fat - Olive Oil",
+      "__2": "LEVEL 2",
+      "__3": "Grain - Brewers Rice"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Fat - Sardine Oil",
+      "__2": "LEVEL 2",
+      "__3": "Grain - Corn Meal"
+    },
+    {
+      "_": "--",
+      "__1": "Fat - Sesame Oil",
+      "__2": "--",
+      "__3": "Grain - Flaxseed"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Fat - Soybean Oil",
+      "__2": "--",
+      "__3": "Grain - Ground Yellow Corn"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Fat - Sunflower Oil",
+      "__2": "LEVEL 1",
+      "__3": "Grain - Millet"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Fat - Vegetable Oil",
+      "__2": "LEVEL 2",
+      "__3": "Grain - Oat"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Food Dye - Blue #1",
+      "__2": "LEVEL 3",
+      "__3": "Grain - Oat Groats"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Food Dye - Blue #2",
+      "__2": "LEVEL 1",
+      "__3": "Grain - Oatmeal"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Food Dye - Caramel Color",
+      "__2": "LEVEL 1",
+      "__3": "Grain - Pearled Barley"
+    },
+    {
+      "_": "_",
+      "__1": "Food",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Grain - Quinoa",
+      "__2": "--",
+      "__3": "Misc - Chia Seeds"
+    },
+    {
+      "_": "--",
+      "__1": "Grain - Quinoa Powder",
+      "__2": "--",
+      "__3": "Misc - Chlorella"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Grain - Rice (brown)",
+      "__2": "LEVEL 1",
+      "__3": "Misc - Gelatin"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Grain - Rice (white)",
+      "__2": "--",
+      "__3": "Misc - Hemp"
+    },
+    {
+      "_": "--",
+      "__1": "Grain - Rice Bran",
+      "__2": "--",
+      "__3": "Misc - Kelp"
+    },
+    {
+      "_": "--",
+      "__1": "Grain - Rice Flour",
+      "__2": "--",
+      "__3": "Misc - Lactobacillus Acidophilus"
+    },
+    {
+      "_": "--",
+      "__1": "Grain - Rye",
+      "__2": "LEVEL 2",
+      "__3": "Misc - Pea Fiber"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Grain - Soy Flour",
+      "__2": "LEVEL 1",
+      "__3": "Misc - Potato Flour"
+    },
+    {
+      "_": "--",
+      "__1": "Grain - Soy Grits",
+      "__2": "--",
+      "__3": "Misc - Potato Starch"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Grain - Soybean Meal",
+      "__2": "--",
+      "__3": "Misc - Powdered Cellulose"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Grain - Wheat Flour",
+      "__2": "LEVEL 2",
+      "__3": "Misc - Psyllium Seed Husk"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Grain - Wheat Gluten",
+      "__2": "--",
+      "__3": "Misc - Spirulina"
+    },
+    {
+      "_": "--",
+      "__1": "Grain - Wheat Middlings",
+      "__2": "LEVEL 3",
+      "__3": "Misc - Tapioca"
+    },
+    {
+      "_": "--",
+      "__1": "Grain - Whole Grain Sorghum",
+      "__2": "LEVEL 2",
+      "__3": "Misc - Tapioca Starch"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Misc - Alfalfa",
+      "__2": "LEVEL 2",
+      "__3": "Misc - Vinegar (apple cider)"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Misc - Alfalfa (dehydrated)",
+      "__2": "LEVEL 1",
+      "__3": "Misc - Yeast"
+    },
+    {
+      "_": "--",
+      "__1": "Misc - Alfalfa Meal Concentrate",
+      "__2": "--",
+      "__3": "Misc - Yeast Culture"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Misc - Alfalfa Nutrient Concentrate",
+      "__2": "--",
+      "__3": "Misc - Yucca Schidigera Extract"
+    },
+    {
+      "_": "--",
+      "__1": "Misc - Barley Grass",
+      "__2": "LEVEL 1",
+      "__3": "Nuts - Almond"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Misc - Bee Pollen",
+      "__2": "LEVEL 1",
+      "__3": "Nuts - Cashew Nuts"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Misc - Brewers Yeast",
+      "__2": "--",
+      "__3": "Nuts - Peanut Butter"
+    },
+    {
+      "_": "--",
+      "__1": "Misc - Catnip",
+      "__2": "--",
+      "__3": "Nuts - Peanuts"
+    },
+    {
+      "_": "_",
+      "__1": "Food",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "--",
+      "__1": "Nuts - Sunflower Seeds",
+      "__2": "LEVEL 1",
+      "__3": "Protein - Chicken Liver"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Protein - Alligator",
+      "__2": "LEVEL 2",
+      "__3": "Protein - Chicken Meal"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Alligator Meal",
+      "__2": "LEVEL 2",
+      "__3": "Protein - Duck"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Bacon",
+      "__2": "--",
+      "__3": "Protein - Duck Gizzard"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Beef",
+      "__2": "--",
+      "__3": "Protein - Duck Liver"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Beef Broth",
+      "__2": "--",
+      "__3": "Protein - Duck Meal"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Protein - Beef Fat",
+      "__2": "LEVEL 3",
+      "__3": "Protein - Egg White"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Beef Heart",
+      "__2": "LEVEL 3",
+      "__3": "Protein - Egg Yolk"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Beef Hide",
+      "__2": "LEVEL 3",
+      "__3": "Protein - Elk"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Beef Jerky",
+      "__2": "LEVEL 1",
+      "__3": "Protein - Kangaroo"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Protein - Beef Kidney",
+      "__2": "LEVEL 1",
+      "__3": "Protein - Lamb"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Beef Liver",
+      "__2": "--",
+      "__3": "Protein - Lamb Meal"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Protein - Beef Meal",
+      "__2": "--",
+      "__3": "Protein - Pea Protein"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Beef Tallow",
+      "__2": "--",
+      "__3": "Protein - Pheasant"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Protein - Bison",
+      "__2": "LEVEL 1",
+      "__3": "Protein - Pheasant Gizzard"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Protein - Bison Meal",
+      "__2": "LEVEL 1",
+      "__3": "Protein - Pheasant Heart"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Bone Meal",
+      "__2": "LEVEL 2",
+      "__3": "Protein - Pheasant Liver"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Protein - Chicken",
+      "__2": "LEVEL 3",
+      "__3": "Protein - Pork"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Protein - Chicken Broth",
+      "__2": "LEVEL 1",
+      "__3": "Protein - Pork Fat"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Chicken By Product",
+      "__2": "--",
+      "__3": "Protein - Pork Heart"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Chicken Fat",
+      "__2": "--",
+      "__3": "Protein - Pork Kidney"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Protein - Chicken Heart",
+      "__2": "LEVEL 2",
+      "__3": "Protein - Pork Liver"
+    },
+    {
+      "_": "_",
+      "__1": "Food",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Pork Meal",
+      "__2": "LEVEL 2",
+      "__3": "Seafood - Fish Broth"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Protein - Pork Skins",
+      "__2": "LEVEL 2",
+      "__3": "Seafood - Fish Meal"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Quail",
+      "__2": "LEVEL 2",
+      "__3": "Seafood - Halibut"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Rabbit",
+      "__2": "--",
+      "__3": "Seafood - Herring"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Protein - Rabbit Heart",
+      "__2": "LEVEL 1",
+      "__3": "Seafood - Herring Meal"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Protein - Rabbit Liver",
+      "__2": "--",
+      "__3": "Seafood - Lobster"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Rabbit Meal",
+      "__2": "--",
+      "__3": "Seafood - Mackerel"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Soy Protein Concentrate",
+      "__2": "LEVEL 3",
+      "__3": "Seafood - Menhaden Fish Meal"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Soy Protein Isolate",
+      "__2": "LEVEL 3",
+      "__3": "Seafood - Mussels"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Protein - Turkey",
+      "__2": "LEVEL 1",
+      "__3": "Seafood - Ocean Fish Meal"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Protein - Turkey Broth",
+      "__2": "LEVEL 1",
+      "__3": "Seafood - Oyster"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Turkey Gizzard",
+      "__2": "LEVEL 3",
+      "__3": "Seafood - Plaice"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Protein - Turkey Heart",
+      "__2": "--",
+      "__3": "Seafood - Salmon"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Protein - Turkey Liver",
+      "__2": "LEVEL 2",
+      "__3": "Seafood - Salmon Meal"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Protein - Turkey Meal",
+      "__2": "LEVEL 2",
+      "__3": "Seafood - Sardine"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Protein - Venison",
+      "__2": "LEVEL 3",
+      "__3": "Seafood - Sardine Meal"
+    },
+    {
+      "_": "--",
+      "__1": "Protein - Venison Meal",
+      "__2": "--",
+      "__3": "Seafood - Sea Bass"
+    },
+    {
+      "_": "--",
+      "__1": "Seafood - Anchovy",
+      "__2": "--",
+      "__3": "Seafood - Shrimp"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Seafood - Anchovy Meal",
+      "__2": "LEVEL 2",
+      "__3": "Seafood - Sole"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Seafood - Catfish",
+      "__2": "--",
+      "__3": "Seafood - Tilapia"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Seafood - Catfish Meal",
+      "__2": "--",
+      "__3": "Seafood - Trout (sea)"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Seafood - Crab",
+      "__2": "LEVEL 2",
+      "__3": "Seafood - Tuna"
+    },
+    {
+      "_": "_",
+      "__1": "Food",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "--",
+      "__1": "Seafood - Whitefish Meal",
+      "__2": "--",
+      "__3": "Synthetic Additive - Calcium Iodate"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Spice - Basil",
+      "__2": "LEVEL 1",
+      "__3": "Synthetic Additive - Calcium Pantothenate"
+    },
+    {
+      "_": "--",
+      "__1": "Spice - Cilantro",
+      "__2": "LEVEL 3",
+      "__3": "Synthetic Additive - Calcium Sulfate"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Spice - Fenugreek Seed",
+      "__2": "LEVEL 1",
+      "__3": "Synthetic Additive - Carnitine"
+    },
+    {
+      "_": "--",
+      "__1": "Spice - Ginger",
+      "__2": "LEVEL 2",
+      "__3": "Synthetic Additive - Carrageenan"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Spice - Oregano Powder",
+      "__2": "LEVEL 2",
+      "__3": "Synthetic Additive - Choline Chloride"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Spice - Parsley",
+      "__2": "LEVEL 2",
+      "__3": "Synthetic Additive - Citric Acid"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Spice - Parsley Flakes",
+      "__2": "--",
+      "__3": "Synthetic Additive - Copper Sulfate"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Spice - Rosemary",
+      "__2": "--",
+      "__3": "Synthetic Additive - Dicalcium Phosphate"
+    },
+    {
+      "_": "--",
+      "__1": "Spice - Rosemary Extract",
+      "__2": "--",
+      "__3": "Synthetic Additive - Ferrous Sulfate"
+    },
+    {
+      "_": "--",
+      "__1": "Spice - Sage",
+      "__2": "--",
+      "__3": "Synthetic Additive - Folic Acid"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Spice - Thyme",
+      "__2": "--",
+      "__3": "Synthetic Additive - Glucosamine Hydrochloride"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Spice - Turmeric",
+      "__2": "--",
+      "__3": "Synthetic Additive - Guar Gum"
+    },
+    {
+      "_": "--",
+      "__1": "Sweetener - High Fructose Corn Syrup",
+      "__2": "LEVEL 1",
+      "__3": "Synthetic Additive - Inositol"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Sweetener - Honey",
+      "__2": "LEVEL 2",
+      "__3": "Synthetic Additive - Inulin"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Sweetener - Sucrose",
+      "__2": "--",
+      "__3": "Synthetic Additive - Lecithins"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Sweetener - Sugar (brown)",
+      "__2": "--",
+      "__3": "Synthetic Additive - Manganese Proteinate"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Synthetic Additive - Agar Gum",
+      "__2": "LEVEL 3",
+      "__3": "Synthetic Additive - Manganese Sulfate"
+    },
+    {
+      "_": "--",
+      "__1": "Synthetic Additive - Ascorbic Acid",
+      "__2": "LEVEL 2",
+      "__3": "Synthetic Additive - Niacin"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Synthetic Additive - Biotin",
+      "__2": "LEVEL 1",
+      "__3": "Synthetic Additive - Omega 3 Fatty Acid"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Synthetic Additive - Calcium Carbonate",
+      "__2": "--",
+      "__3": "Synthetic Additive - Phosphoric Acid"
+    },
+    {
+      "_": "--",
+      "__1": "Synthetic Additive - Calcium Chloride",
+      "__2": "--",
+      "__3": "Synthetic Additive - Potassium Chloride"
+    },
+    {
+      "_": "_",
+      "__1": "Food",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Synthetic Additive - Pyridoxine Hydrochloride",
+      "__2": "LEVEL 1",
+      "__3": "Veg - Carrots"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Synthetic Additive - Riboflavin",
+      "__2": "LEVEL 2",
+      "__3": "Veg - Celery"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Synthetic Additive - Sodium Chloride",
+      "__2": "--",
+      "__3": "Veg - Chicory Root"
+    },
+    {
+      "_": "--",
+      "__1": "Synthetic Additive - Sodium Selenate",
+      "__2": "--",
+      "__3": "Veg - Chicory Root Extract"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Synthetic Additive - Soy Lecithin",
+      "__2": "LEVEL 3",
+      "__3": "Veg - Corn"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Synthetic Additive - Taurine",
+      "__2": "LEVEL 3",
+      "__3": "Veg - Dandelion Greens"
+    },
+    {
+      "_": "--",
+      "__1": "Synthetic Additive - Zinc Sulfate",
+      "__2": "--",
+      "__3": "Veg - Greens (collard)"
+    },
+    {
+      "_": "--",
+      "__1": "Synthetic Additive - E 306 Natural Tocopherols (vitamin E)",
+      "__2": "--",
+      "__3": "Veg - Lentils"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Synthetic Additive - E 307 Alpha-Tocopherol",
+      "__2": "--",
+      "__3": "Veg - Peas"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Synthetic Additive - E 308 Synthetic Gamma-Tocopherol",
+      "__2": "LEVEL 3",
+      "__3": "Veg - Potato (yellow)"
+    },
+    {
+      "_": "_",
+      "__1": "(tocopherol)",
+      "__2": "_",
+      "__3": "_"
+    },
+    {
+      "_": "--",
+      "__1": "Synthetic Additive - E 309 Synthetic Delta-Tocopherol",
+      "__2": "LEVEL 3",
+      "__3": "Veg - Potatoes (sweet)"
+    },
+    {
+      "_": "LEVEL 3",
+      "__1": "Veg - Beans (black)",
+      "__2": "LEVEL 2",
+      "__3": "Veg - Potatoes (white)"
+    },
+    {
+      "_": "LEVEL 1",
+      "__1": "Veg - Beans (chickpea)",
+      "__2": "LEVEL 1",
+      "__3": "Veg - Pumpkin"
+    },
+    {
+      "_": "--",
+      "__1": "Veg - Beans (green)",
+      "__2": "--",
+      "__3": "Veg - Spinach"
+    },
+    {
+      "_": "--",
+      "__1": "Veg - Beets",
+      "__2": "LEVEL 3",
+      "__3": "Veg - Squash (butternut)"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Veg - Broccoli",
+      "__2": "LEVEL 3",
+      "__3": "Veg - Squash (zucchini)"
+    },
+    {
+      "_": "--",
+      "__1": "Veg - Brussels Sprouts",
+      "__2": "--",
+      "__3": "Veg - Yam"
+    },
+    {
+      "_": "LEVEL 2",
+      "__1": "Veg - Cabbage",
+      "__2": "_",
+      "__3": "_"
+    }
+  ]
+}
