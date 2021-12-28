@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# F & Q
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### What's this?
+This is a quick & simple search tool to help me check for my poor pooch's allergy level for different kinds of food. The data comes from the allergy testings result pdf file provided by 5Strands Allergy testing. The original file is not very convenient since I can't dig into a 5-page pdf file whenever I'm shopping. They have also provided me with a search tool to search for food allergy level but I need to log in and click through a bunch of stuff to get to the search so imo it's not very useful for my use case as well.
 
-## Available Scripts
+The accuracy of the data is not neceddarily guaranteed but it's better than nothing
 
-In the project directory, you can run:
+### What does different allergy level means for Gourdy
+- Sever: He will throw up on the carpet in the midnight, sometimes on my bed. He might be licking his poor feet and butt for weeks nonstop. It's VERY important that we AVOID these kinds of food as much as possible
+- Moderate: He might lick his paw or throw up. Just try to avoid but if not, just a tiny little bit is okay imo
+- Mild: Okay to eat. May cause allergy reactions but Gourdy has to eat SOMETHING
+- Insignificant: Okay to eat. This means Gourdy's not allergic to it at all OR somehow they just didn't catch it. Just try bits by bits. 
 
-### `yarn start`
+### Poor Gourdy! Seems like he's a delicate dog that requires a lot of work
+Yes he is 🤷‍♀️
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Why not posting a pic of Gourdy so that everybody knows what he looks like?
+![IMG_2492](https://user-images.githubusercontent.com/31535796/147612223-0ba6b79b-35cc-4c99-baf3-5d63f376ca2b.jpg)
+This is Xmas 2021 and he's so very CUTE
