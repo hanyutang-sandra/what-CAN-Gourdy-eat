@@ -15,5 +15,5 @@ The accuracy of the data is not neceddarily guaranteed but it's better than noth
 Yes he is 🤷‍♀️
 
 ### Why not post a pic of Gourdy so that everybody knows what he looks like?
-![IMG_2492](https://user-images.githubusercontent.com/31535796/147612223-0ba6b79b-35cc-4c99-baf3-5d63f376ca2b.jpg)
-This is Xmas 2021 and he's so very CUTE
+This is Xmas 2021 and plz enjoy his CUTENESSSSSSS
+![IMG_2306](https://user-images.githubusercontent.com/31535796/147612443-979a7ad4-4db5-47c0-8d3c-d7d72566ada0.jpg)
