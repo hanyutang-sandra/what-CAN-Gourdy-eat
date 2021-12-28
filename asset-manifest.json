@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/main.0b88f784.chunk.js",
-    "main.js.map": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/main.0b88f784.chunk.js.map",
-    "runtime-main.js": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/runtime-main.138416b6.js",
-    "runtime-main.js.map": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/runtime-main.138416b6.js.map",
-    "static/js/2.4bea6d96.chunk.js": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/2.4bea6d96.chunk.js",
-    "static/js/2.4bea6d96.chunk.js.map": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/2.4bea6d96.chunk.js.map",
-    "static/js/3.9e578594.chunk.js": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/3.9e578594.chunk.js",
-    "static/js/3.9e578594.chunk.js.map": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/3.9e578594.chunk.js.map",
-    "index.html": "/hanyutang-sandra/what-CAN-Gourdy-eat/index.html",
-    "static/js/2.4bea6d96.chunk.js.LICENSE.txt": "/hanyutang-sandra/what-CAN-Gourdy-eat/static/js/2.4bea6d96.chunk.js.LICENSE.txt"
+    "main.js": "/what-CAN-Gourdy-eat/static/js/main.0b88f784.chunk.js",
+    "main.js.map": "/what-CAN-Gourdy-eat/static/js/main.0b88f784.chunk.js.map",
+    "runtime-main.js": "/what-CAN-Gourdy-eat/static/js/runtime-main.33718cc5.js",
+    "runtime-main.js.map": "/what-CAN-Gourdy-eat/static/js/runtime-main.33718cc5.js.map",
+    "static/js/2.4bea6d96.chunk.js": "/what-CAN-Gourdy-eat/static/js/2.4bea6d96.chunk.js",
+    "static/js/2.4bea6d96.chunk.js.map": "/what-CAN-Gourdy-eat/static/js/2.4bea6d96.chunk.js.map",
+    "static/js/3.9e578594.chunk.js": "/what-CAN-Gourdy-eat/static/js/3.9e578594.chunk.js",
+    "static/js/3.9e578594.chunk.js.map": "/what-CAN-Gourdy-eat/static/js/3.9e578594.chunk.js.map",
+    "index.html": "/what-CAN-Gourdy-eat/index.html",
+    "static/js/2.4bea6d96.chunk.js.LICENSE.txt": "/what-CAN-Gourdy-eat/static/js/2.4bea6d96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.138416b6.js",
+    "static/js/runtime-main.33718cc5.js",
     "static/js/2.4bea6d96.chunk.js",
     "static/js/main.0b88f784.chunk.js"
   ]
