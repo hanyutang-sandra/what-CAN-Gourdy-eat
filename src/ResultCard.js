@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Container, Card, CardContent, CardActions, CardMedia, Typography, Stack } from '@mui/material';
+import { Container, Card, CardContent, Typography, Stack } from '@mui/material';
 import PetsIcon from '@mui/icons-material/Pets';
 
 const levelToColor = {
@@ -9,25 +9,21 @@ const levelToColor = {
     3: "#f44336"
 }
 
-function ResultCard({data, result, image}) {
+function ResultCard({data, result}) {
     return (
         <Container>
             <Card
                 sx={{marginLeft: 'auto', marginRight: 'auto'}}
                 maxwidth="md"
             >
-                <CardMedia component="img" height="200" image={image.link} src={result.name}></CardMedia>
                 <CardContent>
                     <Typography variant="h4" gutterBottom>{result}</Typography>
                     <Typography variant="subtitle2" sx={{color: 'gray'}} gutterBottom>{data[result]["type"]}</Typography>
-                    <Stack direction='row' spacing={0.5}>
+                    <Stack direction='row' spacing={0.5} alignItems="flex-end">
                         <PetsIcon sx={{color: levelToColor[data[result]["level"]]}}/>
-                        <Typography>{data[result]["details"][0].toUpperCase() + data[result]["details"].substring(1)}</Typography>
+                        <Typography sx={{lineHeight: 1}}>{data[result]["details"][0].toUpperCase() + data[result]["details"].substring(1)}</Typography>
                     </Stack>
                 </CardContent>
-                <CardActions>
-                    <Button>What's that</Button>
-                </CardActions>
           </Card>
         </Container>
     )
