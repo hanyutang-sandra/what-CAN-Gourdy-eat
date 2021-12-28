@@ -2,7 +2,7 @@
   "name": "can-gourdy-eat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/hanyutang-sandra/what-CAN-Gourdy-eat",
+  "homepage": "https://hanyutang-sandra.github.io/what-CAN-Gourdy-eat",
   "dependencies": {
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.6.0",
