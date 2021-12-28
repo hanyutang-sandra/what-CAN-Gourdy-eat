@@ -5,7 +5,7 @@ This is a quick & simple search tool to help me check for my poor pooch's allerg
 
 The accuracy of the data is not neceddarily guaranteed but it's better than nothing
 
-### What does different allergy level means for Gourdy
+### What does different allergy level mean for Gourdy
 - Sever: He will throw up on the carpet in the midnight, sometimes on my bed. He might be licking his poor feet and butt for weeks nonstop. It's VERY important that we AVOID these kinds of food as much as possible
 - Moderate: He might lick his paw or throw up. Just try to avoid but if not, just a tiny little bit is okay imo
 - Mild: Okay to eat. May cause allergy reactions but Gourdy has to eat SOMETHING
