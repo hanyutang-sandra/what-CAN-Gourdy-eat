@@ -14,6 +14,6 @@ The accuracy of the data is not neceddarily guaranteed but it's better than noth
 ### Poor Gourdy! Seems like he's a delicate dog that requires a lot of work
 Yes he is 🤷‍♀️
 
-### Why not posting a pic of Gourdy so that everybody knows what he looks like?
+### Why not post a pic of Gourdy so that everybody knows what he looks like?
 ![IMG_2492](https://user-images.githubusercontent.com/31535796/147612223-0ba6b79b-35cc-4c99-baf3-5d63f376ca2b.jpg)
 This is Xmas 2021 and he's so very CUTE
